@@ -27,6 +27,7 @@ var bio = {
 				'GitHub',
 				'Grunt',
 				'Node.js',
+				'OOP'
 			],
 	'display': function() {
 		var formattedName = HTMLheaderName.replace('%data%', bio.name);
